@@ -4,10 +4,10 @@ description: Query official statistics by indicator and place, with period, unit
 categories:
   - Statistics & Data
 type: REST
-is_free: true
+is_free: false
 is_active: true
 auth_type: api_key
-rate_limits: Free account plan includes 500 REST and MCP calls per month; the anonymous MCP trial allows 25 calls per day per IP
+rate_limits: The free plan includes 500 MCP calls per month. REST data endpoints require Builder or Pro, or prepaid credits. The anonymous MCP trial allows 25 calls per day per IP.
 specification:
   type: OpenAPI 3.1
   url: https://invokely.ai/openapi.json

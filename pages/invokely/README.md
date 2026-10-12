@@ -7,11 +7,11 @@
 - **Categories**: [Statistics & Data](https://github.com/tools-collection/apis-collection#statistics--data-)
 - **Type**: `REST`
 - **Auth**: `api_key`
-- **Free**: `Yes` 🆓
+- **Free**: `No`
 - **Status**: `Active`
 
 ## 🚦 Rate Limits
-Free account plan includes 500 REST and MCP calls per month; the anonymous MCP trial allows 25 calls per day per IP
+The free plan includes 500 MCP calls per month. REST data endpoints require Builder or Pro, or prepaid credits. The anonymous MCP trial allows 25 calls per day per IP.
 
 ## 📖 Specification
 - **Type**: `OpenAPI 3.1`
